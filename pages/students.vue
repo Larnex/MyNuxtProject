@@ -1,7 +1,5 @@
 <template>
-    <StudentList />
+  <StudentList />
 </template>
 
-<script>
-
-</script>
+<script></script>

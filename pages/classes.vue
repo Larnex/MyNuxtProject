@@ -1,5 +1,5 @@
 <template>
-    <ClassList />
+  <ClassList />
 </template>
 
 <script>

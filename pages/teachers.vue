@@ -1,5 +1,5 @@
 <template>
-    <TeacherList />
+  <TeacherList />
 </template>
 
 <script>

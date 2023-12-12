@@ -1,9 +1,5 @@
 <script setup>
-import { definePageMeta } from '#app'
-
 definePageMeta({
-  middleware: ['auth']
-})
+  middleware: ["auth"],
+});
 </script>
-
-
